@@ -1,2 +1,1 @@
-# Fire-Detection-Alarm
-A life saviour project where a buzzer is activated whenever there is sense of fire around you.
+# Fire_Detection_Real_Time
